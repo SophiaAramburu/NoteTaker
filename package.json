@@ -1,0 +1,22 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "notetaker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophiaAramburu/NoteTaker.git"
+  },
+  "author": "Sophia Aramburu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SophiaAramburu/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/SophiaAramburu/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
